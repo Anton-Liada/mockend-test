@@ -68,27 +68,6 @@
     {"id":66,"first_name":"Augustin","last_name":"Skirrow","email":"askirrow1t@mayoclinic.com","gender":"Genderqueer","address":"7727 Dorton Avenue"},
     {"id":67,"first_name":"Saidee","last_name":"Meharg","email":"smeharg1u@comcast.net","gender":"Female","address":"96421 Onsgard Alley"},
     {"id":68,"first_name":"Katharyn","last_name":"Birkbeck","email":"kbirkbeck1v@skyrock.com","gender":"Female","address":"6478 Parkside Terrace"},
-    {"id":69,"first_name":"Denna","last_name":"Overpool","email":"doverpool1w@oracle.com","gender":"Female","address":"98424 Blackbird Parkway"},
-    {"id":70,"first_name":"Dene","last_name":"Zavattero","email":"dzavattero1x@fotki.com","gender":"Male","address":"42598 Helena Parkway"},
-    {"id":71,"first_name":"Halli","last_name":"Favelle","email":"hfavelle1y@sciencedirect.com","gender":"Female","address":"57552 Dryden Plaza"},
-    {"id":72,"first_name":"Modestia","last_name":"Squier","email":"msquier1z@g.co","gender":"Female","address":"9 Oriole Way"},
-    {"id":73,"first_name":"Merna","last_name":"Croce","email":"mcroce20@apache.org","gender":"Female","address":"10450 Grasskamp Street"},
-    {"id":74,"first_name":"Claudianus","last_name":"Martinho","email":"cmartinho21@bravesites.com","gender":"Male","address":"4 Thierer Trail"},
-    {"id":75,"first_name":"Gabriel","last_name":"Durrans","email":"gdurrans22@mozilla.org","gender":"Male","address":"97 Caliangt Road"},
-    {"id":76,"first_name":"Kane","last_name":"Bowmen","email":"kbowmen23@nasa.gov","gender":"Male","address":"120 Rigney Junction"},
-    {"id":77,"first_name":"Goober","last_name":"Esson","email":"gesson24@arizona.edu","gender":"Male","address":"4459 Nevada Plaza"},
-    {"id":78,"first_name":"Chaunce","last_name":"Hellwing","email":"chellwing25@goo.gl","gender":"Male","address":"495 Lakewood Gardens Parkway"},
-    {"id":79,"first_name":"Gabby","last_name":"Lofts","email":"glofts26@typepad.com","gender":"Male","address":"81 Havey Way"},
-    {"id":80,"first_name":"Rebeka","last_name":"Skaid","email":"rskaid27@mail.ru","gender":"Female","address":"32042 La Follette Way"},
-    {"id":81,"first_name":"Palmer","last_name":"Beek","email":"pbeek28@google.fr","gender":"Male","address":"3 Garrison Way"},
-    {"id":82,"first_name":"Annora","last_name":"Taveriner","email":"ataveriner29@ed.gov","gender":"Female","address":"60397 Artisan Terrace"},
-    {"id":83,"first_name":"Collete","last_name":"Ricca","email":"cricca2a@nba.com","gender":"Female","address":"035 Grim Trail"},
-    {"id":84,"first_name":"Jennine","last_name":"Peasby","email":"jpeasby2b@livejournal.com","gender":"Female","address":"5492 Colorado Center"},
-    {"id":85,"first_name":"Wrennie","last_name":"Stave","email":"wstave2c@wired.com","gender":"Female","address":"3241 Independence Parkway"},
-    {"id":86,"first_name":"Benedetta","last_name":"Martignon","email":"bmartignon2d@skyrock.com","gender":"Agender","address":"5028 Oxford Park"},
-    {"id":87,"first_name":"Craggie","last_name":"Billinge","email":"cbillinge2e@liveinternet.ru","gender":"Male","address":"9 Mitchell Court"},
-    {"id":88,"first_name":"Tommi","last_name":"Ruddiforth","email":"truddiforth2f@xrea.com","gender":"Genderqueer","address":"7690 Holy Cross Point"},
-    {"id":89,"first_name":"Emmery","last_name":"Bento","email":"ebento2g@delicious.com","gender":"Male","address":"1 Westerfield Trail"},
-    {"id":90,"first_name":"Werner","last_name":"Posselow","email":"wposselow2h@technorati.com","gender":"Agender","address":"7 Dovetail Trail"}  
+    {"id":69,"first_name":"Denna","last_name":"Overpool","email":"doverpool1w@oracle.com","gender":"Female","address":"98424 Blackbird Parkway"}
   ]
 }
